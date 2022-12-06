@@ -1,3 +1,3 @@
 # Lychee
 
-A description of this package.
+A lichess API wrapper, written in Swift
